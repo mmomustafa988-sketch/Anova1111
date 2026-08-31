@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@500;600;700;800;900&display=swap');
+@import "tailwindcss" source(none);
+@source "../src";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --color-bg: #060a14;
+  --color-background: #060a14;
+  --color-surface: #0a1024;
+  --color-card: #0d1630;
+  --color-card-hover: #132046;
+  
+  --color-primary: #0066ff;
+  --color-primary-hover: #0052cc;
+  --color-accent: #00d2ff;
+  
+  --color-foreground: #f0f6ff;
+  --color-muted: #0d1630;
+  --color-muted-foreground: #94a3b8;
+  
+  --color-border: rgba(0, 162, 255, 0.2);
+  --color-input: #0d1630;
+  --color-ring: #00a2ff;
+  
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.125rem;
+  --radius-3xl: 1.5rem;
+}
+
+:root {
+  --deep-blue: #030814;
+  --bright-blue: #0066ff;
+  --deep-purple: #002255;
+  --bright-purple: #00a2ff;
+  --glow-purple: #00d2ff;
+  --bg-dark: #060a14;
+  
+  --bg: #060a14;
+  --surface: #0a1024;
+  --card: #0d1630;
+  --blue-accent: #0066ff;
+  --purple-accent: #00a2ff;
+  --red-accent: #00d2ff;
+  
+  background-color: #060a14;
+  color: #f0f6ff;
+}
+
+html {
+  max-width: 100vw;
+  background-color: #060a14;
+  color: #f0f6ff;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  max-width: 100vw;
+  background: var(--bg-dark);
+  font-family: 'Poppins', 'Inter', -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
+  color: #f0f6ff;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+#root {
+  max-width: 100vw;
+  min-height: 100vh;
+}
+
+/* Hide scrollbars */
+.scrollbar-none::-webkit-scrollbar,
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none,
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #060a14; }
+::-webkit-scrollbar-thumb {
+  background: #132046;
+  border-radius: 9999px;
+  border: 1px solid rgba(0, 162, 255, 0.2);
+}
+::-webkit-scrollbar-thumb:hover { background: #0066ff; }
+
+/* Metallic Glossy Gradient Hero Section */
+.hero {
+  background: linear-gradient(135deg, #030814, #003380 40%, #0066ff 70%, #001a40);
+  position: relative;
+}
+
+/* Metallic Sparkle & Glitter Texture Effect */
+.glitter-texture {
+  background-image: 
+    radial-gradient(circle at 15% 20%, rgba(0, 210, 255, 0.25) 0%, transparent 25%),
+    radial-gradient(circle at 85% 70%, rgba(0, 102, 255, 0.3) 0%, transparent 30%),
+    radial-gradient(2px 2px at 20px 30px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 40px 70px, #00d2ff, rgba(0,0,0,0)),
+    radial-gradient(1px 1px at 90px 40px, #ffffff, rgba(0,0,0,0)),
+    radial-gradient(2px 2px at 160px 120px, #0066ff, rgba(0,0,0,0)),
+    radial-gradient(1.5px 1.5px at 230px 190px, #ffffff, rgba(0,0,0,0));
+  background-repeat: repeat;
+  background-size: cover, cover, 180px 180px, 180px 180px, 180px 180px, 180px 180px, 180px 180px;
+  animation: metallicShimmer 12s infinite alternate ease-in-out;
+}
+
+@keyframes metallicShimmer {
+  0% { opacity: 0.85; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.01); }
+  100% { opacity: 0.85; transform: scale(1); }
+}
+
+/* Gradient Text for Headings */
+.gradient-text {
+  background: linear-gradient(90deg, #38bdf8, #0066ff, #60a5fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Primary Button with Electric Blue & Cyan Multi-tone Glow */
+.btn-primary {
+  background: linear-gradient(135deg, #0055ff 0%, #00a2ff 50%, #00f0ff 100%);
+  border: 1px solid rgba(200, 240, 255, 0.4);
+  border-radius: 14px;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  color: #ffffff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+.btn-primary:hover {
+  box-shadow: 0 0 30px rgba(0, 210, 255, 0.75), 0 0 10px rgba(0, 102, 255, 0.5);
+  transform: translateY(-2px) scale(1.02);
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+/* Cyber Neon Blue Glow Panel */
+.cyber-panel {
+  background: linear-gradient(165deg, rgba(13, 26, 60, 0.85) 0%, rgba(6, 14, 32, 0.92) 100%);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(0, 210, 255, 0.3);
+  box-shadow: 0 20px 50px rgba(0, 15, 45, 0.7), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+/* Glowing Cyber Pill Button */
+.cyber-pill {
+  background: linear-gradient(180deg, rgba(14, 29, 66, 0.85) 0%, rgba(7, 17, 40, 0.95) 100%);
+  border: 1px solid rgba(0, 210, 255, 0.4);
+  box-shadow: 0 4px 15px rgba(0, 162, 255, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(12px);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.cyber-pill:hover {
+  background: linear-gradient(180deg, rgba(0, 85, 255, 0.35) 0%, rgba(0, 210, 255, 0.25) 100%);
+  border-color: rgba(0, 240, 255, 0.8);
+  box-shadow: 0 0 25px rgba(0, 210, 255, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px) scale(1.04);
+}
+
+/* Card Hover Effects */
+.card-glow-hover {
+  transition: all 0.3s ease;
+}
+.card-glow-hover:hover {
+  box-shadow: 0 0 25px rgba(0, 162, 255, 0.4);
+  transform: scale(1.03);
+  border-color: rgba(0, 162, 255, 0.6);
+}
+
+/* Moonlight Glass Navigation Bar */
+.glass-nav {
+  background: rgba(6, 10, 20, 0.88);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient(90deg, rgba(0, 102, 255, 0.4), rgba(0, 210, 255, 0.5), rgba(0, 102, 255, 0.4)) 1;
+}
+
+.glass-card {
+  background: rgba(13, 22, 48, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 162, 255, 0.2);
+}
+
+/* Clean scroll behavior without disappearing glitch */
+nav, .glass-nav {
+  transform: translateZ(0);
+}
+

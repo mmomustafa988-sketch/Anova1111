@@ -1,0 +1,218 @@
+[
+  {
+    "id": "jujutsu-kaisen",
+    "title": "Jujutsu Kaisen",
+    "poster": "https://media.kitsu.app/anime/42765/poster_image/large-0803274df28ec32490ad6cf8f98ecfc6.jpeg",
+    "banner": "https://media.kitsu.app/anime/42765/cover_image/large-958049e6f21272fcbe5b722d3aa0efb6.jpeg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "bleach-tybw",
+    "title": "Bleach: Thousand-Year Blood War",
+    "poster": "https://media.kitsu.app/anime/43085/poster_image/large-63ad55fe55d376378e907c1bcfdfc29e.jpeg",
+    "banner": "https://media.kitsu.app/anime/43085/cover_image/large-23bce30a3fbb2247be9ae3636f1c42f0.jpeg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "chainsaw-man",
+    "title": "Chainsaw Man",
+    "poster": "https://media.kitsu.app/anime/43806/poster_image/large-333e6c0c16ae484a141b712faee3da84.jpeg",
+    "banner": "https://media.kitsu.app/anime/43806/cover_image/large-f24e93d5b035ba75fe99f939e6c1e550.jpeg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "vinland-saga",
+    "title": "Vinland Saga",
+    "poster": "https://media.kitsu.app/anime/poster_images/41316/large.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/41316/large.jpg",
+    "pOk": true,
+    "bOk": false
+  },
+  {
+    "id": "tokyo-ghoul",
+    "title": "Tokyo Ghoul",
+    "poster": "https://media.kitsu.app/anime/poster_images/8372/large.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/8372/large.jpg",
+    "pOk": true,
+    "bOk": false
+  },
+  {
+    "id": "steins-gate",
+    "title": "Steins;Gate",
+    "poster": "https://media.kitsu.app/anime/poster_images/5959/large.jpg",
+    "banner": "https://media.kitsu.app/anime/cover_images/5959/large.jpg",
+    "pOk": true,
+    "bOk": false
+  },
+  {
+    "id": "chainsaw-man-reze-arc",
+    "title": "Chainsaw Man: Reze Arc",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172671-8r9P0v2N1m4Q.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172671-54e7U9YQ0g1J.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "one-punch-man-season-3",
+    "title": "One Punch Man Season 3",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154388-7l2f3j8g5a4h.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154388-3W3N5a0N4g8k.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "jujutsu-kaisen-season-3",
+    "title": "Jujutsu Kaisen: Culling Game",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-0a1B2c3D4e5F.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-3P9qN0Z7v1r4.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "my-hero-academia-final-season",
+    "title": "My Hero Academia: Final Season",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-8lqSgS62f7sD.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174070-7r8qN5v2p0m9.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "konosuba",
+    "title": "KonoSuba: God",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-09m8q2N1v4P.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21202-1ayx0cwuzmgz.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "parasyte",
+    "title": "Parasyte -the maxim-",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20623-p0q9r4b2q1a8.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20623-4v2g7q9l0k8j.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "cyberpunk-edgerunners",
+    "title": "Cyberpunk: Edgerunners",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-p0q9r4b2q1a8.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120377-4v2g7q9l0k8j.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "neon-genesis-evangelion",
+    "title": "Neon Genesis Evangelion",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-p0q9r4b2q1a8.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/30-4v2g7q9l0k8j.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "re-zero",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-p0q9r4b2q1a8.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21355-4v2g7q9l0k8j.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "ben-10-alien-force",
+    "title": "Ben 10: Alien Force",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA2NzU0NWItODNmNS00MzkxLWJmNzktZGNmYWE1YTMwZjBhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images6.alphacoders.com/712/712530.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "ben-10-ultimate-alien",
+    "title": "Ben 10: Ultimate Alien",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNmMDkzNmItOGViZi00YmUzLWE2NzUtMTU2ZjljZGU0ODRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images2.alphacoders.com/712/712532.jpg",
+    "pOk": false,
+    "bOk": true
+  },
+  {
+    "id": "the-loud-house",
+    "title": "The Loud House",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA2ZjcyOGItNjE1NS00ZTFhLWIxMmYtMzY1YjVjMjM3ZGFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images.alphacoders.com/712/712789.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "avatar-the-last-airbender",
+    "title": "Avatar: The Last Airbender",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images3.alphacoders.com/274/274438.jpg",
+    "pOk": true,
+    "bOk": false
+  },
+  {
+    "id": "the-legend-of-korra",
+    "title": "The Legend of Korra",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FmNmEzMzgtMGY0YS00MDdlLWFkYjAtNTM1YWE4ZjkzMGI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images4.alphacoders.com/269/269661.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "teen-titans",
+    "title": "Teen Titans",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Y3NDU4NDItODhjZi00OTBkLWFjOTktN2U2YTZjMmYzMDljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images5.alphacoders.com/437/437025.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "rick-and-morty",
+    "title": "Rick and Morty",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjE2NDQxDBhZTg0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images8.alphacoders.com/651/651586.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "tom-and-jerry-tales",
+    "title": "Tom and Jerry Tales",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmI1MzA2YmYtYzQzZi00MmQyLTk3OTctYmI0NmJlZjY0ZDBkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images2.alphacoders.com/593/593740.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "pokemon-series",
+    "title": "Pokémon: The Series",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx527-m57z33zB9uL6.png",
+    "banner": "https://images.alphacoders.com/598/598811.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "spider-man-tas",
+    "title": "Spider-Man: The Animated Series",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4ZDU5YTgtMjA0ZC00ZmY0LWExNWUtMDQ1ZWY0NWExYTBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images5.alphacoders.com/492/492652.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "batman-tas",
+    "title": "Batman: The Animated Series",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI5OWU0MjUtZWEyOC00M2VhLTg5N2MtZjhkM2VkMWU1ZWY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images.alphacoders.com/280/280036.jpg",
+    "pOk": false,
+    "bOk": false
+  },
+  {
+    "id": "oggy-and-the-cockroaches",
+    "title": "Oggy and the Cockroaches",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1OTU5Nzc2Ml5BMl5BanBnXkFtZTgwNTQzNzgyMjE@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images3.alphacoders.com/712/712790.jpg",
+    "pOk": false,
+    "bOk": false
+  }
+]

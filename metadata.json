@@ -1,0 +1,6 @@
+{
+  "name": "Anova Movie",
+  "description": "Anova Anime and Movie Streaming Platform with rich discovery, watch experience, and management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
